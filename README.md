@@ -2,7 +2,7 @@
 
 A dark theme which utilizes shades of pink and a tiny bit of spring green.
 
-![chrome screenshot](./images/screenshot.png)
+![chrome screenshot](tbd)
 
 Based off of [this!](https://github.com/endorfina/roseate)
 
