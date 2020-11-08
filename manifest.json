@@ -11,10 +11,9 @@
             "ntp_text": [48, 45, 54],
             "ntp_background": [255, 121, 166]
         }
-        },
-        "properties": {
-            "ntp_logo_alternate": "images/nologo.png"
-        }
     },
+    "properties": {
+        "ntp_logo_alternate": "images/nologo.png"
+        },
     "manifest_version": 2
 }
