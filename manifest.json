@@ -1,0 +1,21 @@
+{
+    "version": "1.1",
+    "name": "Roseate Theme for Chrome",
+    "theme": {
+        "colors": {
+            "frame": [255, 121, 166],
+            "tab_background_text": [41, 29, 42],
+            "toolbar": [48, 45, 54],
+            "toolbar_button_icon": [255, 121, 166],
+            "ntp_text": [48, 45, 54],
+            "ntp_header": [41, 29, 42]
+        },
+        "images": {
+            "theme_ntp_background": "images/theme_ntp_background_norepeat.png"
+        },
+        "properties": {
+            "ntp_logo_alternate": "images/nologo.png"
+        }
+    },
+    "manifest_version": 2
+}
