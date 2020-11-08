@@ -5,6 +5,7 @@
         "colors": {
             "frame": [255, 121, 166],
             "tab_background_text": [41, 29, 42],
+            "tab_text": [124, 201, 178],
             "toolbar": [48, 45, 54],
             "toolbar_button_icon": [255, 121, 166],
             "ntp_text": [48, 45, 54],
