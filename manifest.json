@@ -9,7 +9,8 @@
             "toolbar_button_icon": [124, 201, 178],
             "toolbar": [48, 45, 54],
             "ntp_text": [48, 45, 54],
-            "ntp_background": [255, 121, 166]
+            "ntp_background": [255, 121, 166],
+            "ntp_header": [255,255,255]
         }
     },
     "manifest_version": 2
