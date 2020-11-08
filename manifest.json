@@ -9,10 +9,8 @@
             "toolbar_button_icon": [124, 201, 178],
             "toolbar": [48, 45, 54],
             "ntp_text": [48, 45, 54],
-            "ntp_header": [41, 29, 42]
-        },
-        "images": {
-            "theme_ntp_background": "images/theme_ntp_background_norepeat.png"
+            "ntp_background": [255, 121, 166]
+        }
         },
         "properties": {
             "ntp_logo_alternate": "images/nologo.png"
